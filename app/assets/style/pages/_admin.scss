@@ -1,0 +1,19 @@
+.modal-footer{
+    .btn-white:hover{
+        background: $secondary !important;
+    }
+}
+.emir-avatar{
+    width: 141px ;
+    height: 141px ;
+}
+.student-list{
+    td{
+        padding: 0.4rem !important;
+    }
+}
+.admin-pagination{
+    .page-item{
+        border:1px solid $primary !important;
+    }
+}

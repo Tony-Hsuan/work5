@@ -1,0 +1,41 @@
+.dropdown{
+    &:focus{
+    }
+}
+.faq-list{
+    min-width: 320px;
+    font-size: 12px;
+    li a{
+        margin-top: -1px;
+        // border-color:#cdddcd !important;
+        &:hover{
+            background: $secondary;
+        }
+    }
+}
+.faq-content-topic{
+    font-size: 12px;
+    margin-bottom:-1px !important;
+}
+.card-body{
+    p{
+        font-size: 14px;
+    }
+    small{
+        font-size: 12px;
+    }
+    .attachfile{
+        width:176px  !important;
+    }
+    .card-avatar{
+        img{
+            
+        width: 40px;
+        height: 40px;
+        }
+    }
+}
+.card-body-student{
+    margin-top: -1px !important;
+    border:none !important;
+}
